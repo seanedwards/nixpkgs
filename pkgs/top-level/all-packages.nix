@@ -8633,6 +8633,7 @@ in
   defaultGemConfig = callPackage ../development/ruby-modules/gem-config { };
   bundix = callPackage ../development/ruby-modules/bundix { };
   bundler = callPackage ../development/ruby-modules/bundler { };
+  bundler2 = callPackage ../development/ruby-modules/bundler2 { };
   bundlerEnv = callPackage ../development/ruby-modules/bundler-env { };
   bundlerApp = callPackage ../development/ruby-modules/bundler-app { };
 
